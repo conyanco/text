@@ -1,0 +1,15 @@
+{
+  "name": "bot-api",
+  "version": "1.0.0",
+  "description": "Bot API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "": ""
+  }
+}
