@@ -4,7 +4,12 @@
   "description": "text callback app",
   "main": "app.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+"dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "request": "2.61.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
